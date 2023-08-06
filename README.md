@@ -4,4 +4,4 @@ Uma calculadora interativa desenvolvida como parte do meu aprendizado em desenvo
 
 Contribuições e feedbacks são bem-vindos!!
 
-![Imagem prévia da calculadora que foi desenvolvida nesse projeto.](Calculadora/img/image.png)
+![Imagem prévia da calculadora que foi desenvolvida nesse projeto.](Calculadora/img/image-calculator-previa.png)
